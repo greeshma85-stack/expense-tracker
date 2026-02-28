@@ -102,5 +102,3 @@ Greeshma G
 BTech CSE (AI & ML) Student
 Aspiring Java & Software Developer
 
-
-## 📂 Project Structure
